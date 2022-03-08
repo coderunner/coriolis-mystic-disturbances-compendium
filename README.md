@@ -1,6 +1,6 @@
 # Coriolis Mystic Disturbances
 
-This small Foundry VTT modules contains the 7 mystic disturbances described in the supplement [Mystic Disturbances](https://www.drivethrurpg.com/product/387778/Mystic-Disturbances?src=github).
+This small Foundry VTT module contains the 7 mystic disturbances described in the supplement [Mystic Disturbances](https://www.drivethrurpg.com/product/387778/Mystic-Disturbances?src=github).
 
 Use the following manifest link to install the module: https://raw.githubusercontent.com/coderunner/coriolis-mystic-disturbances-compendium/main/module.json.
 
@@ -14,6 +14,6 @@ You can also import all _mystic disturbances_ in an _Item_ folder named _Corioli
 
 ![Settings](https://i.imgur.com/M50zEOb.png?1)
 
-This will create a folder name _Coriolis Mystic Disturbances_ and add all _mystic disturbances_.
+This will create a folder named _Coriolis Mystic Disturbances_ and add all _mystic disturbances_.
 
 ![Items](https://i.imgur.com/O3wOB0K.png?1)

@@ -1,11 +1,17 @@
 {
-  "name": "coriolis-mystic-disturbances-compendium",
+  "id": "coriolis-mystic-disturbances-compendium",
   "title": "Coriolis Mystic Disturbances",
   "description": "A compendium containing the mystic disturbances.",
-  "version": "1.1.0",
-  "minimumCoreVersion": "0.8.9",
-  "compatibleCoreVersion": "9",
-  "author": "Félix-Étienne Trépanier",
+  "authors": [
+    {
+      "name": "Félix-Étienne Trépanier"
+    }
+  ],
+  "version": "2.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
   "system": ["yzecoriolis"],
   "esmodules": ["./scripts/main.js"],
   "packs": [
@@ -13,10 +19,10 @@
       "name": "coriolis-mystic-disturbances",
       "label": "Coriolis Mystic Disturbances",
       "path": "packs/mystic-disturbances.db",
-      "entity": "Item",
+      "type": "Item",
       "package": "coriolis-mystic-disturbances"
     }
   ],
   "manifest": "https://raw.githubusercontent.com/coderunner/coriolis-mystic-disturbances-compendium/main/module.json",
-  "download": "https://github.com/coderunner/coriolis-mystic-disturbances-compendium/archive/refs/tags/1.1.0.zip"
+  "download": "https://github.com/coderunner/coriolis-mystic-disturbances-compendium/archive/refs/tags/2.0.0.zip"
 }
